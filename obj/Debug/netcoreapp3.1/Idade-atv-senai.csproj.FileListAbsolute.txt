@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Idade-atv-senai\bin\Debug\netcoreapp3.1\Idade-atv-senai.exe
+C:\Users\dev\Desktop\Idade-atv-senai\bin\Debug\netcoreapp3.1\Idade-atv-senai.deps.json
+C:\Users\dev\Desktop\Idade-atv-senai\bin\Debug\netcoreapp3.1\Idade-atv-senai.runtimeconfig.json
+C:\Users\dev\Desktop\Idade-atv-senai\bin\Debug\netcoreapp3.1\Idade-atv-senai.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Idade-atv-senai\bin\Debug\netcoreapp3.1\Idade-atv-senai.dll
+C:\Users\dev\Desktop\Idade-atv-senai\bin\Debug\netcoreapp3.1\Idade-atv-senai.pdb
+C:\Users\dev\Desktop\Idade-atv-senai\obj\Debug\netcoreapp3.1\Idade-atv-senai.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Idade-atv-senai\obj\Debug\netcoreapp3.1\Idade-atv-senai.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Idade-atv-senai\obj\Debug\netcoreapp3.1\Idade-atv-senai.AssemblyInfo.cs
+C:\Users\dev\Desktop\Idade-atv-senai\obj\Debug\netcoreapp3.1\Idade-atv-senai.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Idade-atv-senai\obj\Debug\netcoreapp3.1\Idade-atv-senai.dll
+C:\Users\dev\Desktop\Idade-atv-senai\obj\Debug\netcoreapp3.1\Idade-atv-senai.pdb
+C:\Users\dev\Desktop\Idade-atv-senai\obj\Debug\netcoreapp3.1\Idade-atv-senai.genruntimeconfig.cache
